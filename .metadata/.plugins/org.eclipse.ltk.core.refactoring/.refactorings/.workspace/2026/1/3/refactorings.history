@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;exercicio_resolvido_2_enum_comp&apos;" deleteContents="false" description="Delete resource &apos;exercicio_resolvido_2_enum_comp&apos;" element1="/exercicio_resolvido_2_enum_comp" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1768673176592"/>
+</session>
